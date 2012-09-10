@@ -1,0 +1,1 @@
+For validating all sorts of input.
